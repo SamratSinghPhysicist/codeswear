@@ -3,11 +3,11 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 
-const Tshirts = () => {
+const Stickers = () => {
   return (
     <>
       <Head>
-        <title>CodesWear - TShirts</title>
+        <title>CodesWear - Stickers</title>
       </Head>
 
       <div className="mx-auto">
@@ -20,7 +20,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -43,7 +43,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -66,7 +66,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -89,7 +89,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -112,7 +112,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -135,7 +135,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -158,7 +158,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -181,7 +181,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -204,7 +204,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -227,7 +227,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -250,7 +250,7 @@ const Tshirts = () => {
                     <Image
                       alt="ecommerce"
                       className="w-3/4 mx-auto"
-                      src="/img/tshirt_temp.jpg"
+                      src="/img/sticker_temp.jpg"
                       width={190}
                       height={260}
                     />
@@ -276,4 +276,4 @@ const Tshirts = () => {
   );
 };
 
-export default Tshirts;
+export default Stickers;
