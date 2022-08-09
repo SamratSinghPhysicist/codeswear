@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     screens: {
+      vvsm: "330px",
+
+      vsm: "480px",
+
       sm: "640px",
 
       md: "768px",
